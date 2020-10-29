@@ -1,2 +1,2 @@
-# xx142-b2.exe
+# xx142-b2.net
 New game
